@@ -39,3 +39,16 @@
 <br/>
 在Admin登入頁面中，不開放註冊Admin
 <br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/listPage(client).PNG"/><br>首頁(Client)</div>
+<br/>
+Client登入後，左上角為User Name，左方為條列式投票，經過截止狀態排序後，可以進行不同的操作，Client端只能進行投票動作，不能刪除與新增投票
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/listPage(admin).PNG"/><br>首頁(Admin)</div>
+<br/>
+Admin登入後，比Client多了刪除與新增投票選項<br/>
+按下刪除投票後，如下圖
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/deletePage.PNG"/><br>刪除投票</div>
+<br/>
+刪除投票後少了一個選項
+<br/><br/>
