@@ -15,15 +15,15 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           UAC 資訊清單選項
-         如需變更 Windows 使用者帳戶控制層級，
-         請以下列其中一個項目取代 requestedExecutionLevel 節點。
+          如果您要變更 Windows 使用者帳戶控制層級，請將 
+          requestedExecutionLevel 節點取代為下列其中一項。
 
-       <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
-       <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
-       <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-        如需利用回溯相容性的檔案及登錄模擬，
-        請刪除 requestedExecutionLevel 節點。
+         如果您要利用檔案及登錄模擬，
+         以便提供回溯相容性，則請刪除 requestedExecutionLevel 節點。
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d91dM0vhZ/vcRinuQ0+KVwB1aB3MxJh5Sgf6kfkk/0o=</dsig:DigestValue>
+        <dsig:DigestValue>To3mzJfpnashkzhLq+w+femDuePtXSS3QTy+4pj81qY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
