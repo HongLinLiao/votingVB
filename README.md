@@ -8,8 +8,10 @@
 資料庫：local SQL Server<br/><br/><br/>
 
 一打開Application後，會先進入歡迎頁面<br/>
-<div  align="center"><img  width="750"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/welcomePage.PNG"/><br>歡迎頁面</div><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/welcomePage.PNG"/><br>歡迎頁面</div>
+<br/>
 歡迎頁面等待三秒後會自動跳轉至登入頁面
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/loginPage_1.PNG"/><br>登入頁面(選擇登入模式)</div>
 <br/>
-<div  align="center"><img  width="750"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/welcomePage.PNG"/><br>評價首頁(List)</div>
-<br/>
+在這裡可以選擇登入模式，Client端或Admin端
