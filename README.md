@@ -52,3 +52,19 @@ Admin登入後，比Client多了刪除與新增投票選項<br/>
 <br/>
 刪除投票後少了一個選項
 <br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/addVoteItem.PNG"/><br>建立投票(項目)</div>
+<br/>
+按下建立投票後，會讓使用者輸入有幾個投票項目，在實體化出指定數量(用實體化解決動態產生問題)
+<br/><br/>
+<div  align="center"><img  width="700"  height="600"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/addVote.PNG"/><br>建立投票(內容)</div>
+<br/>
+在指定內容填完資料後按下建立，會回到首頁
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/DB_Vote.PNG"/><br>DB(投票項目)</div>
+<br/><br/>
+<div  align="center"><img  width="700"  height="600"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/resultPage.PNG"/><br>結果頁面</div>
+<br/>
+可以在結果頁面進行投票，每次進入結果頁面會先進資料庫抓取是否有投過票，再到頁面選擇呈現
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/DB_Choice.PNG"/><br>DB_投票總列表</div>
+<br/>
