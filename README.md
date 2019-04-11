@@ -27,3 +27,15 @@
 <div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/signUp_2.PNG"/><br>註冊(Birth)</div>
 <br/><br/>
 <div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/signUp_3.PNG"/><br>註冊(Name)</div>
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/DB_User.PNG"/><br>DB(User List)</div>
+<br/>
+通過一些邏輯判斷後，會新增一筆使用者資料進User List<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/DB_Normal.PNG"/><br>DB(Normal List)</div>
+<br/>
+將Client註冊的資料丟進Normal List(區分Admin與Client)
+<br/><br/>
+<div  align="center"><img  width="700"  height="400"  src="https://github.com/HongLinLiao/votingVB/blob/master/IMG/loginPage_2(admin).PNG"/><br>登入頁面(Admin)</div>
+<br/>
+在Admin登入頁面中，不開放註冊Admin
+<br/><br/>
